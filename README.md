@@ -2,4 +2,4 @@
 Repo for practice
 ## Why?
 * Practicar GitHub
-* Hacer la prácticas de Coursera
+* Hacer las prácticas de Coursera
